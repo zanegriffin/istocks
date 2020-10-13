@@ -1,0 +1,12 @@
+nav {
+  background: blue;
+  display: flex;
+  align-items: flex-end;
+  
+}
+
+nav h1, nav h3 {
+  padding-left: 30px;
+  color: white;
+  text-decoration: none;
+}
